@@ -65,8 +65,7 @@ Follow these simple steps to run **TechnoVerse** locally 👇
 Clone the repository
 
 ```bash
-git clone https://github.com/ansaridanish7937-netizen/fullstack_blog_api
-cd fullstack_blog_api/server
+git clone
 ```
 
 Install dependencies
