@@ -151,7 +151,7 @@ To deploy your own version:
 ---
 
 ## 👨‍💻 Author  
-**Danish Ansari**  
+**Tanmay Kohale**  
 
 ---
 
